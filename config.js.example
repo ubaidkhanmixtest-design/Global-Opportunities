@@ -1,0 +1,8 @@
+// Global Opportunities configuration template
+// Copy this file and rename the copy to: config.js
+// Replace the placeholders with your Supabase Project URL and Publishable Key.
+// Never put a Supabase secret/service_role key in this browser file.
+window.GO_CONFIG = {
+  supabaseUrl: 'PASTE_YOUR_SUPABASE_PROJECT_URL_HERE',
+  supabaseAnonKey: 'PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY_HERE'
+};
